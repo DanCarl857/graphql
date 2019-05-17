@@ -1,0 +1,12 @@
+{
+    "name": "hello-server",
+    "private": true,
+    "dependencies": {
+        "apollo-server-express": "^1.4.0",
+        "body-parser": "^1.19.0",
+        "cors": "^2.8.5",
+        "express": "^4.17.0",
+        "graphql": "^14.3.0",
+        "graphql-tools": "^4.0.4"
+    }
+}
